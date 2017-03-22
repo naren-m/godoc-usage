@@ -1,6 +1,6 @@
-# Using godoc
+# Using GoDoc
 
-## Generating documentation using godoc
+## Generating documentation using GoDoc
 
 Run below command to see documentation in commandline
 
@@ -36,13 +36,13 @@ In browser go to "Packages" and navigate from there to your package
 
 ## Generating documentaion in HTML format using godoc
 
-Generating from the url flag
+Generating HTML page using 'url' flag
 
 ```shell
 godoc -url http://localhost:6060/pkg/github.com/naren-m/godoc-usage/ > page.html
 ```
 
-Generating without using html flag
+Generating HTML page using 'html' flag
 
 ```shell
 godoc -html github.com/naren-m/godoc-usage > page.html
