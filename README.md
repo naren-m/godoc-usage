@@ -64,6 +64,7 @@ and javascript to
 
 ## References
 
+- [Online Encyclopedia of Integer Sequences](http://oeis.org/)
 - [GoDoc](https://godoc.org/golang.org/x/tools/cmd/godoc) doccumentation
 - [GoDoc](https://blog.golang.org/godoc-documenting-go-code) for documenting your go code
 - [Golang Documenting Package Examples](http://blog.el-chavez.me/2013/08/29/golang-documenting-package-examples/)
