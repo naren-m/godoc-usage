@@ -28,7 +28,7 @@ Special cases are:
 */
 func Min(x, y float64) float64 {
 	// Used the code from golang math package to demonstrate
-	// Special case scenario
+	// how indentation looks like using Special case scenario
 	switch {
 	case math.IsInf(x, -1) || math.IsInf(y, -1):
 		return math.Inf(-1)
